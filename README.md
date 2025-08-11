@@ -1,4 +1,6 @@
-Python COPC Reader
+# Python COPC Reader
+
+Sample: Read COPC online using PDAL filter for extent + classification
 
 ```
 conda install -c conda-forge pdal
